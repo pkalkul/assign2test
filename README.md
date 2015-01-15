@@ -15,6 +15,9 @@ Lim, Namhun
 Melendy, Jacob Glen   
 Mudd, Baylor Joseph   
 Quill, Candace Connor   
+
+This is a sample student with a sample bio.
+
 Santiago, Gabriel Luis   
 Sheppard, William Robson   
 Shinn, Rachel Elizabeth   
